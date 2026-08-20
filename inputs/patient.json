@@ -1,0 +1,23 @@
+{
+    "Age": 55,
+    "Sex": "Male",
+    "Cholesterol": 220,
+    "Heart Rate": 78,
+    "Diabetes": 0,
+    "Family History": 1,
+    "Smoking": 1,
+    "Obesity": 0,
+    "Alcohol Consumption": 1,
+    "Exercise Hours Per Week": 3.5,
+    "Diet": "Average",
+    "Previous Heart Problems": 0,
+    "Medication Use": 1,
+    "Stress Level": 6,
+    "Sedentary Hours Per Day": 5.2,
+    "BMI": 27.4,
+    "Triglycerides": 180,
+    "Physical Activity Days Per Week": 3,
+    "Sleep Hours Per Day": 7,
+    "Systolic": 135,
+    "Diastolic": 85
+}
